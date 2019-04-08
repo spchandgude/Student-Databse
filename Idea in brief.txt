@@ -1,0 +1,23 @@
+Fruitful Android Mobile Application Module:
+1.GPS system for tractors and labour by android mobile.
+2.Mobile app can be avalable in hindi and english language.
+3.Both online and offline payment procedure for rent.
+4.All details of tractor owner and labour by registration.
+5.Feedback and review service for farmers reference.
+6.On the basis of review labours and tractors get ranking.
+7.Facility of taking photo of initial and final reading of tractor meter.
+8.We put the general information about crops for sowing.
+9.All the tractor accessories,seed and fertilizers are avalabile online with price.
+10.We have tractor owner and labour phone number for calling.
+
+#Brief idea of project :
+	Our main aim to empower the farmers,tractor owner and lobour lifestyle
+by using our application.In our application we put registration of labour and 
+tractor owner.GPS tracking system without using any external hardware by the
+the android phone.The mobile avaliable in regional language for farmer like
+hind and english.We can put payment procedure in our application.For the rent
+of tractor we can provide the picture taking mechanism by app in mobile phone.
+It leads to proof our tractor rent.We put the general information about various 
+crop in specific region.Also we make tab for accessories,seed and fertilizers
+which directly contact with releted companies.We can also contact to tractor 
+owner by calling to asking realtime doubt.
